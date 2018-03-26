@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">General Knowledge Q</string>
+    <!--FIRST QUIZ-->
+      <string name="question1">In the first 3 years of competition for the American Football World Cup
+    (also known as the IFAF World Cup and Gridiron World Cup), which
+          country won twice and was runner up once? </string>
+    <string name="R01">Japan</string>
+    <string name="R02">USA</string>
+    <string name="R03">Spain</string>
+    <!--SECOND QUIZ-->
+     <string name="question2">In what year was the first demonstration of a helicopter lifting
+         itself organised by Louis Breguet and Professor Richet? </string>
+    <string name="R11">1907</string>
+    <string name="R12">1942</string>
+    <string name="R13">1852</string>
+    <!--THERD-->
+    <!--SECOND QUIZ-->
+     <string name="question3">The main ingredient of what dish is potato? </string>
+    <string name="R31">Winner</string>
+    <string name="R32">Boss</string>
+    <string name="R33">Champ</string>
+    <!--FOUR-->
+    <!--SECOND QUIZ-->
+     <string name="question4">From 1895 to 1952 the island of Taiwan was under the sovereignty
+         of which country?</string>
+    <string name="R41">France</string>
+    <string name="R42">Japan</string>
+    <string name="R43">England</string>
+</resources>
+
